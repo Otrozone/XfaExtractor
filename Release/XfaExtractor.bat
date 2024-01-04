@@ -1,0 +1,1 @@
+java -jar XfaExtractor.jar input.pdf output.xml
